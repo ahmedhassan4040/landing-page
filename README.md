@@ -1,1 +1,3 @@
-# landing-page
+- This project turns a static web page into an interactive page.
+- It uses javascript to dynamically create navigation bar links based on content, when a section is in viewport it shows the active state of that section.
+- When you scroll, a new button will appear near the bottom of the page to scroll to the top of the page.
